@@ -34,6 +34,7 @@ Any recommendations I made.
 Link back to these markdown files from my README.md for easy access.
 
 
+[CatherineKim_Assignment_Controls and compliance checklist_2FEB2024.pdf](https://github.com/Catherinesjkim/Cybersecurity-Portfolio/files/14145100/CatherineKim_Assignment_Controls.and.compliance.checklist_2FEB2024.pdf)
 
 
 
